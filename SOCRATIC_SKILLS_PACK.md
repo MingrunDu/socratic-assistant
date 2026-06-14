@@ -1,6 +1,6 @@
-# Socratic Skills Pack
+# 苏格拉底助手（Socratic Assistant）Skills Pack
 
-This file contains the seven exported Socratic Codex skill Markdown files.
+This file contains the seven exported Socratic Codex skill Markdown files for `socratic-assistant`.
 
 
 

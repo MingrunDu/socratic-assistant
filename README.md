@@ -1,8 +1,10 @@
-# Socratic Codex Skills
+# 苏格拉底助手（Socratic Assistant）
 
-`Socratic Codex Skills` is a small suite of Codex skills built around Socratic questioning, explicit boundaries, evidence, and human approval before execution.
+`Socratic Assistant` is a small suite of Codex skills built around Socratic questioning, explicit boundaries, evidence, and human approval before execution.
 
-`Socratic Codex Skills` 是一组面向 Codex 的苏格拉底式 skill 套件。它们的共同目标不是让 AI 更快地“替你下结论”，而是让 AI 先学会追问、澄清边界、暴露假设、建立证据，再在用户明确认可后进入执行。
+`苏格拉底助手（Socratic Assistant）` 是一组面向 Codex 的苏格拉底式 skill 套件。它们的共同目标不是让 AI 更快地“替你下结论”，而是让 AI 先学会追问、澄清边界、暴露假设、建立证据，再在用户明确认可后进入执行。
+
+仓库 URL 使用 GitHub 友好的 slug：`socratic-assistant`。
 
 ## 一句话概览 / One-Line Overview
 

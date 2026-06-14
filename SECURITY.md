@@ -1,8 +1,8 @@
-# Security Notes
+# 苏格拉底助手（Socratic Assistant）Security Notes
 
 ## 中文
 
-这个仓库是一个 Codex skill 指令包，不是软件运行时。
+这个仓库 `socratic-assistant` 是一个 Codex skill 指令包，不是软件运行时。
 
 已检查的安全边界：
 
@@ -21,7 +21,7 @@
 
 ## English
 
-This repository is a Codex skill instruction pack, not a software runtime.
+This repository, `socratic-assistant`, is a Codex skill instruction pack, not a software runtime.
 
 Reviewed security boundaries:
 

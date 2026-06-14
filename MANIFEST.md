@@ -1,6 +1,6 @@
-# Manifest
+# 苏格拉底助手（Socratic Assistant）Manifest
 
-This repository packages seven Socratic Codex skills.
+This repository packages seven Socratic Codex skills under the public repository name `socratic-assistant`.
 
 | Path | Purpose |
 | --- | --- |
@@ -12,4 +12,3 @@ This repository packages seven Socratic Codex skills.
 | `dist/codex/skills/socratic-paper-finder/` | Literature search and evidence table workflow |
 | `dist/codex/skills/socratic-method-cooking/` | Empirical research gap and methodology-flow matching |
 | `dist/markdown/` | Single-file Markdown exports of the same seven skills |
-
